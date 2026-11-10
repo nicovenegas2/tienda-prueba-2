@@ -1,0 +1,18 @@
+/* Standalone fashion assets: never use a full-page mockup as image content. */
+.image-left{background-image:url('/assets/editorial-portrait.png');background-position:center}
+.image-right{background-image:url('/assets/editorial-architecture.png');background-position:center}
+.catalog-portrait{background-image:url('/assets/editorial-architecture.png');background-position:center}
+.coat-product{background-image:url('/assets/coat-studio.png');background-position:center}
+.catalog-item div{background-image:url('/assets/materials-still-life.png')}
+.catalog-item.item-0 div{background-position:left center}
+.catalog-item.item-1 div{background-position:right center}
+.thumb{background-image:url('/assets/editorial-portrait.png');background-size:cover}
+.thumb:first-of-type{background-position:center}
+.thumb-2{background-image:url('/assets/editorial-architecture.png')}
+.thumb-3{background-image:url('/assets/coat-studio.png')}
+.thumb-4{background-image:url('/assets/materials-still-life.png')}
+.detail-photo{background-image:url('/assets/editorial-portrait.png');background-position:center}
+.cart-image{background-image:url('/assets/editorial-portrait.png')}
+.cart-image.jersey{background-image:url('/assets/materials-still-life.png');background-position:left center}
+.review-product{background-image:url('/assets/editorial-portrait.png');background-position:center}
+.folded-coat{background-image:url('/assets/coat-studio.png');background-position:center}
