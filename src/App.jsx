@@ -16,7 +16,7 @@ function Icon({ name }) {
 
 function Header({ page, bagCount, navigate }) {
   return <>
-    {page === 'home' && <div className="notice">Envío gratis en Chile sobre $120.000</div>}
+    {page === 'home' && <div className="notice">Envío gratis en Chile sobre $121.000</div>}
     <header className="header">
       <button className="wordmark" onClick={() => navigate('home')}>Atelier Norte</button>
       <nav aria-label="Principal">
